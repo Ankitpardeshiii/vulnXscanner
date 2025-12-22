@@ -63,7 +63,7 @@ Designed for security analysts, penetration testers, red teams, researchers, and
 - Web protocol detection  
 - Threat intelligence mapping  
 
-### 🤖 AI-style modal analysis  
+### 🤖 AI modal analysis  
 - Attack vectors  
 - Recommendations  
 - Exploit scenarios  

@@ -361,7 +361,7 @@ HTML_TEMPLATE = """
                             {{ threat }}
                         </div>
                         <div class="ai-hint">
-                            🔍 Click for AI-style expert analysis
+                            🔍 Click for AI expert analysis
                         </div>
                     </div>
                 {% endfor %}
